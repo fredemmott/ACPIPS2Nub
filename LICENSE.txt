@@ -1,0 +1,15 @@
+Project:    ACPIPS2Nub Kernel Extension
+Copyright:  2007 David Elliott
+
+This kext is original code written by David Elliott.  It was reverse-
+engineered from the equivalent binary code present in the
+AppleACPIPlatformExpert.kext.  This original code is intended to be used as
+part of the Darwin OS and is licensed under the terms of the Apple Public
+Source License version 2.0 (APSL 2).
+
+If APSL licensing is not acceptable for you contact me (David Elliott) and
+I'll consider granting an alternate license.
+
+See the APPLE_LICENSE.txt file for the APSL license text and the
+APPLE_DRIVER_LICENSE.txt file for the license of the Apple binary code that
+was reverse-engineered.
